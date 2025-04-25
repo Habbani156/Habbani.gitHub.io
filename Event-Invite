@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Spin-off of "Project: Event invite"</title>
+  <style>
+    body {
+      background-color: #f0f8ff;
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    h1 {
+      color: #2e8b57;
+      text-align: center;
+    }
+    h2 {
+      color: #4682b4;
+      text-align: center;
+    }
+    ul {
+      background-color: #ffffff;
+      padding: 20px;
+      border: 2px solid #ccc;
+      width: 300px;
+      margin: 0 auto;
+      list-style-type: square;
+    }
+    li {
+      margin: 10px 0;
+    }
+    img {
+      display: block;
+      margin: 0 auto 20px auto;
+      width: 150px;
+      height: auto;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>You're invited!</h1>
+  <h2>To a 20th Birthday Bash!</h2>
+  <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/seasonal/fireworks-scattered.png" alt="Birthday Bash">
+  <p style="text-align:center;">The details:</p>
+  <ul>
+    <li><strong>Date:</strong> May 15, 2025</li>
+    <li><strong>Time:</strong> 5:00 PM - 9:00 PM</li>
+    <li><strong>Location:</strong> Central Park, NYC</li>
+    <li><strong>RSVP:</strong> Please reply by May 10th!</li>
+  </ul>
+</body>
+</html>
